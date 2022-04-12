@@ -16,11 +16,11 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $user = User::factory()
-        ->has(Transaction::factory()->count(2))
-        ->has(Transfer::factory()->count(1))
-        ->create();
+        // $user = User::factory()
+        // ->has(Transaction::factory()->count(2))
+        // ->has(Transfer::factory()->count(1))
+        // ->create();
 
-       // \App\Models\User::factory(10)->create();
+        \App\Models\User::factory(10)->create();
     }
 }

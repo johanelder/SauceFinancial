@@ -55,16 +55,18 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    <h1>Let's get some gravy!</h1>
-                                    <p>Here at Sauce Financial we understand that the times have changed and the way you use money along with it. We 
-                                        want you to be able to pay bills, send transfers, make purchases any time, any where, all from your digital device;
-                                        whether its your phone or you laptop. Secure, easy to use and connected to all of the businesses and individuals 
-                                        you need to be connected to.</p>
-                                    <p>What's more, we at Sauce Financial understand how hard you work to earn your bread, so we want you to gate a little
-                                        gravy too! No matter what you spend you money on, earn cash back on your transactions. Because we all deserve some
-                                        gravy.</p>
-                                    <p>And don't worry, here at Sauce Financial we are continuing to evolve along with you, so we will continue to come up 
-                                        with services to help you save time and money. The gravy train doesn't stop here.</p>
+                                <h1>Let's get some gravy!</h1>
+                            <p>Here at Sauce Financial we understand that the times have changed and the way you use 
+                                money along with it. We want you to be able to pay bills, send transfers, and make 
+                                purchases anytime, anywhere, from any device; whether its your phone, laptop, tablet, 
+                                smartwatch - you name it! Secure, easy to use, and connected to all of the businesses 
+                                and people you need to be connected to.</p>
+                            <p>What's more, at Sauce Financial, we understand how hard you work to earn your bread! No 
+                                matter what you spend you money on, earn cash back on every transaction. Because we all 
+                                deserve a little extra gravy.</p>
+                            <p>At Sauce Financial we are committed to growing along with you. We will continue to come 
+                                up with services to help you save time and money. The gravy train doesn't stop here.</p>
+
                                     <img src="resources/images/Banking1.jpg">
                                     <img src="resources/images/banking2-globe.jpg">
                                     <img src="resources/images/banking3-crypto.jpg">

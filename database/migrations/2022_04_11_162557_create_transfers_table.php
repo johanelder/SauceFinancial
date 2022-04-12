@@ -15,7 +15,7 @@ class CreateTransfersTable extends Migration
     {
         Schema::create('transfers', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('account_num');
+            $table->string('account_num');
             $table->string('email_sender');
             $table->string('email_receiver');
             $table->double('amount');

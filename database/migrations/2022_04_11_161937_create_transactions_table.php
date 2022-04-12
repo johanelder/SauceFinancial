@@ -15,7 +15,7 @@ class CreateTransactionsTable extends Migration
     {
         Schema::create('transactions', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('account_num');
+            $table->string('account_num');
             $table->double('deposit')->nullable();
             $table->double('withdrawal')->nullable();
             $table->double('transfer')->nullable();

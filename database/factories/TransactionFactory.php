@@ -14,7 +14,7 @@ class TransactionFactory extends Factory
     public function definition()
     {
         return [
-            'account_num' => $this->faker->numerify('#####-###'),
+            'account_num' => $this->faker->unique()->numerify('#####-###'),
             'deposit' => $this->faker->numerify('####.##'),
             'withdrawal' => $this->faker->numerify('####.##'),
             'transfer' => $this->faker->numerify('####.##'),

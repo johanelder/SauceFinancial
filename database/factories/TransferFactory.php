@@ -17,7 +17,7 @@ class TransferFactory extends Factory
             'account_num' => $this->faker->numerify('#####-###'),
             'email_sender' => $this->faker->unique()->safeEmail(),
             'email_receiver' => $this->faker->unique()->safeEmail(),
-            'amount' => $this->faker->numerify('####.##'),
+            'amount' => $this->faker->unique()->numerify('####.##'),
             
         ];
     }
